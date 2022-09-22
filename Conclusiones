@@ -1,0 +1,16 @@
+
+QA NTTDATA                         
+Prueba técnica NTTData                                 
+Maribel Vargas                     
+
+
+Conclusiones y Recomendaciones
+
+1. Tras la realización de la automatización de flujos de compra de productos se verifica que está respondiendo
+de una manera satisfactoria el sitio web; sin embargo, se recomienda que en el proceso de compra se agregue una interfaz donde solicite usuario y contraseña, con la finalidad de asegurar las compras de productos, y así no tengan la facilidad de aplicar un ataque DoS, por qué se generan diferentes cookies.
+
+2.- Agregar un controlador de cantidad de productos, para que el usuario tenga la facilidad desde un modal seleccionar cuantos productos y no tenga que volver a dar varios clics.
+
+3.- Desde el carrito agregar una opción que permita regresar al catálogo de productos por si el cliente requiere cargar más productos.
+
+El código fuente e indicaciones repositorio digital https://gitlab.com/palichis/nttdata

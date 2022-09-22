@@ -1,0 +1,19 @@
+{
+  "name": "e2e-ttndata",
+  "version": "1.0.0",
+  "description": "Prueba Practica QA TTNdata",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "E2E",
+    "automatization"
+  ],
+  "author": "Maribel Vargas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
